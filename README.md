@@ -1,0 +1,2 @@
+# MyJSPractice
+はじめてのJavaScript（ドットインストール）
